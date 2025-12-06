@@ -1,8 +1,8 @@
 /* Default Green Theme */
 body {
 	font-family: "Rockwell", "Roboto Slab", serif;
-	background-color: #008000;
-	color: #40e0d0;
+	background-color: #ff0000;
+	color: #008000;
 	margin: 0;
 	padding: 20px;
 }
@@ -26,5 +26,5 @@ button {
 /* Blue Theme */
 body.blue {
 	background-color: #0000ff;
-	color: #800080;
+	color: #ffa500;
 }
